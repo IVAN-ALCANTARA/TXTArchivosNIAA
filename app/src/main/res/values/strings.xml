@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TXTArchivosNIAA</string>
+    <string name="BTNGRABAR">GRABAR</string>
+    <string name="BTNCARGAR">CARGAR</string>
+</resources>
